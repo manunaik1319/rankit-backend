@@ -26,7 +26,7 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       
       // College type filter
       if (collegeTypes) {
-        const collegeType = cutoff.instituteType?.toUpperCase() || cutoff.type?.toUpperCase() || '';
+        const collegeType = (cutoff.college_type || cutoff.type || '').toUpperCase();
         const typeMatch = 
           (collegeTypes.iit && collegeType.includes('IIT')) ||
           (collegeTypes.nit && collegeType.includes('NIT')) ||
@@ -38,12 +38,13 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       
       // Category filter
       const categoryMatch = 
-        cutoff.category === category ||
-        cutoff.seatType?.includes(category) ||
+        cutoff.seat_type === category ||
+        cutoff.seat_type?.includes(category) ||
+        cutoff.seat_type === 'OPEN' ||
         cutoff.category === 'OPEN' ||
         cutoff.category === 'General' ||
-        (category === 'OPEN' && !cutoff.category) ||
-        !cutoff.category;
+        (category === 'OPEN' && !cutoff.seat_type) ||
+        !cutoff.seat_type;
       
       if (!categoryMatch) return false;
       
@@ -61,7 +62,7 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       }
       
       // Rank range filter
-      const closingRank = parseInt(cutoff.closingRank) || parseInt(cutoff.closing_rank) || 0;
+      const closingRank = parseInt(cutoff.closing_rank) || 0;
       if (closingRank === 0) return false;
       
       let maxRank;
@@ -84,7 +85,7 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
     
     // Calculate chances and add metadata
     results = results.map(cutoff => {
-      const closingRank = parseInt(cutoff.closingRank) || parseInt(cutoff.closing_rank) || 0;
+      const closingRank = parseInt(cutoff.closing_rank) || 0;
       const rankDiff = closingRank - rank;
       const percentage = (rankDiff / closingRank) * 100;
       
