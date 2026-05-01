@@ -107,35 +107,28 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       const closingRank = parseInt(cutoff.closing_rank) || 0;
       const rankDiff = closingRank - rank;
       
-      // Calculate percentage difference
-      // Positive rankDiff means closing rank is higher (worse) than user rank
-      // Negative rankDiff means closing rank is lower (better) than user rank
+      // Match Type Logic:
+      // rankDiff < 0: Closing rank is BETTER than user rank (harder to get) = DREAM
+      // rankDiff 0-2000: Closing rank is slightly worse than user rank = TARGET
+      // rankDiff > 2000: Closing rank is much worse than user rank = SAFE
       
       let chance, matchType;
       
       if (rankDiff < 0) {
-        // Closing rank is better than user rank - SAFE
-        // User's rank is worse, so they have high chance
+        // Closing rank is better (lower number) than user rank
+        // This is challenging - DREAM
+        chance = 'Low';
+        matchType = 'Dream';
+      } else if (rankDiff <= 2000) {
+        // Closing rank is 0-2000 worse than user rank
+        // Good chance - TARGET
+        chance = 'Medium';
+        matchType = 'Target';
+      } else {
+        // Closing rank is more than 2000 worse than user rank
+        // Very safe - SAFE
         chance = 'High';
         matchType = 'Safe';
-      } else {
-        // Closing rank is worse than user rank
-        // Calculate how much worse as a percentage
-        const percentage = (rankDiff / rank) * 100;
-        
-        if (percentage <= 5) {
-          // Within 5% - Target (good chance)
-          chance = 'Medium';
-          matchType = 'Target';
-        } else if (percentage <= 15) {
-          // Within 15% - Dream (possible but challenging)
-          chance = 'Low';
-          matchType = 'Dream';
-        } else {
-          // More than 15% - Very difficult
-          chance = 'Very Low';
-          matchType = 'Dream';
-        }
       }
       
       return {
