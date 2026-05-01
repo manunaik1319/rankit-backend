@@ -18,9 +18,17 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
     // Filter cutoffs based on criteria
     let results = cutoffsData.filter(cutoff => {
       // Exam type filter
-      const examMatch = cutoff.exam === exam || 
-                       (exam === 'JEE Main' && cutoff.exam !== 'JEE Advanced') ||
-                       (exam === 'JEE Advanced');
+      // For very good ranks (< 10000), show both JEE Main and JEE Advanced colleges
+      // For higher ranks, filter by selected exam
+      let examMatch;
+      if (rank < 10000) {
+        // Good ranks can see all colleges
+        examMatch = true;
+      } else {
+        examMatch = cutoff.exam === exam || 
+                   (exam === 'JEE Main' && cutoff.exam !== 'JEE Advanced') ||
+                   (exam === 'JEE Advanced');
+      }
       
       if (!examMatch) return false;
       
@@ -57,7 +65,7 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       if (!genderMatch) return false;
       
       // Round filter
-      if (round && cutoff.round && cutoff.round !== round) {
+      if (round && cutoff.round && parseInt(cutoff.round) !== parseInt(round)) {
         return false;
       }
       
