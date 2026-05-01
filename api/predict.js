@@ -17,17 +17,28 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
 
     // Filter cutoffs based on criteria
     let results = cutoffsData.filter(cutoff => {
-      // Exam type filter
-      // For very good ranks (< 10000), show both JEE Main and JEE Advanced colleges
-      // For higher ranks, filter by selected exam
-      let examMatch;
-      if (rank < 10000) {
-        // Good ranks can see all colleges
-        examMatch = true;
+      // Exam type filter with college type restrictions
+      let examMatch = false;
+      const collegeType = (cutoff.college_type || '').toUpperCase();
+      
+      if (exam === 'JEE Advanced') {
+        // JEE Advanced: Only IITs
+        examMatch = cutoff.exam === 'JEE Advanced' && collegeType.includes('IIT');
+      } else if (exam === 'JEE Main') {
+        // JEE Main: NIT, IIIT, GFTI (no IITs)
+        examMatch = cutoff.exam === 'JEE Main' && 
+                   (collegeType.includes('NIT') || 
+                    collegeType.includes('IIIT') || 
+                    collegeType.includes('GFTI'));
+      } else if (exam === 'CSAB') {
+        // CSAB: NIT, IIIT, GFTI (no IITs)
+        examMatch = cutoff.exam === 'CSAB' && 
+                   (collegeType.includes('NIT') || 
+                    collegeType.includes('IIIT') || 
+                    collegeType.includes('GFTI'));
       } else {
-        examMatch = cutoff.exam === exam || 
-                   (exam === 'JEE Main' && cutoff.exam !== 'JEE Advanced') ||
-                   (exam === 'JEE Advanced');
+        // Fallback for other exams
+        examMatch = cutoff.exam === exam;
       }
       
       if (!examMatch) return false;
@@ -104,37 +115,103 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
       else if (percentage > 0) { chance = 'Low'; matchType = 'Dream'; }
       
       return {
-        ...cutoff,
-        closingRank,
-        rankDifference: rankDiff,
-        chance,
+        college: {
+          id: cutoff.college_id,
+          name: cutoff.college_name,
+          type: cutoff.college_type,
+          city: cutoff.city || '',
+          state: cutoff.state || ''
+        },
+        branch: {
+          name: cutoff.branch,
+          code: cutoff.branch_code
+        },
+        cutoff: {
+          closingRank: closingRank,
+          openingRank: parseInt(cutoff.opening_rank) || 0,
+          round: cutoff.round,
+          quota: cutoff.quota,
+          seatType: cutoff.seat_type,
+          gender: cutoff.gender
+        },
         matchType,
-        chancePercentage: Math.round(percentage)
+        chance,
+        chancePercentage: Math.round(percentage),
+        rankDifference: rankDiff,
+        formattedRanks: {
+          closing: closingRank.toLocaleString(),
+          opening: (parseInt(cutoff.opening_rank) || 0).toLocaleString()
+        }
       };
     });
     
     // Sort by rank difference
     results.sort((a, b) => Math.abs(a.rankDifference) - Math.abs(b.rankDifference));
     
-    // Limit results
-    results = results.slice(0, 200);
+    // Group by college - one card per college with all branches
+    const collegeMap = new Map();
     
-    // Group by chance
-    const groupedResults = {
-      safe: results.filter(r => r.chance === 'High'),
-      moderate: results.filter(r => r.chance === 'Medium'),
-      reach: results.filter(r => r.chance === 'Low' || r.chance === 'Very Low')
+    results.forEach(result => {
+      const collegeId = result.college.id;
+      
+      if (!collegeMap.has(collegeId)) {
+        collegeMap.set(collegeId, {
+          id: collegeId,
+          college: result.college,
+          branches: [],
+          bestMatchType: result.matchType,
+          bestRecommendationScore: result.chancePercentage
+        });
+      }
+      
+      const collegeData = collegeMap.get(collegeId);
+      collegeData.branches.push({
+        branch: result.branch,
+        cutoff: result.cutoff,
+        matchType: result.matchType,
+        chance: result.chance,
+        chancePercentage: result.chancePercentage,
+        rankDifference: result.rankDifference,
+        formattedRanks: result.formattedRanks
+      });
+      
+      // Update best match type (Safe > Target > Dream)
+      const matchPriority = { 'Safe': 3, 'Target': 2, 'Dream': 1 };
+      if (matchPriority[result.matchType] > matchPriority[collegeData.bestMatchType]) {
+        collegeData.bestMatchType = result.matchType;
+        collegeData.bestRecommendationScore = result.chancePercentage;
+      }
+    });
+    
+    // Convert map to array and sort by best match
+    const groupedResults = Array.from(collegeMap.values());
+    groupedResults.sort((a, b) => {
+      const matchPriority = { 'Safe': 3, 'Target': 2, 'Dream': 1 };
+      const priorityDiff = matchPriority[b.bestMatchType] - matchPriority[a.bestMatchType];
+      if (priorityDiff !== 0) return priorityDiff;
+      return b.bestRecommendationScore - a.bestRecommendationScore;
+    });
+    
+    // Limit results
+    const limitedResults = groupedResults.slice(0, 100);
+    
+    // Group by chance for stats
+    const statsByChance = {
+      safe: limitedResults.filter(r => r.bestMatchType === 'Safe'),
+      moderate: limitedResults.filter(r => r.bestMatchType === 'Target'),
+      reach: limitedResults.filter(r => r.bestMatchType === 'Dream')
     };
     
     return res.status(200).json({
       success: true,
-      results,
-      groupedResults,
+      results: limitedResults,
+      groupedResults: statsByChance,
       stats: {
-        total: results.length,
-        safe: groupedResults.safe.length,
-        moderate: groupedResults.moderate.length,
-        reach: groupedResults.reach.length
+        total: limitedResults.length,
+        totalBranches: limitedResults.reduce((sum, c) => sum + c.branches.length, 0),
+        safe: statsByChance.safe.length,
+        moderate: statsByChance.moderate.length,
+        reach: statsByChance.reach.length
       }
     });
 
