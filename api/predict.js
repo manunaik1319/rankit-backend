@@ -105,30 +105,37 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
     // Calculate chances and add metadata
     results = results.map(cutoff => {
       const closingRank = parseInt(cutoff.closing_rank) || 0;
-      const rankDiff = closingRank - rank;
+      const rankDiff = rank - closingRank; // User rank - Closing rank
       
-      // Match Type Logic:
-      // rankDiff < 0: Closing rank is BETTER than user rank (harder to get) = DREAM
-      // rankDiff 0-2000: Closing rank is slightly worse than user rank = TARGET
-      // rankDiff > 2000: Closing rank is much worse than user rank = SAFE
+      // Match Type Logic (Standard College Admission Logic):
+      // If user rank ≤ closing rank (rankDiff ≤ 0): User is BETTER → SAFE
+      // If user rank ≈ closing rank (rankDiff small): Similar → TARGET
+      // If user rank > closing rank (rankDiff > 0): User is WORSE → DREAM (if within 20%)
       
       let chance, matchType;
       
-      if (rankDiff < 0) {
-        // Closing rank is better (lower number) than user rank
-        // This is challenging - DREAM
-        chance = 'Low';
-        matchType = 'Dream';
-      } else if (rankDiff <= 2000) {
-        // Closing rank is 0-2000 worse than user rank
-        // Good chance - TARGET
-        chance = 'Medium';
-        matchType = 'Target';
-      } else {
-        // Closing rank is more than 2000 worse than user rank
-        // Very safe - SAFE
+      if (rankDiff <= 0) {
+        // User rank is better than or equal to closing rank
+        // High chance of admission - SAFE
         chance = 'High';
         matchType = 'Safe';
+      } else {
+        // User rank is worse than closing rank
+        // Calculate percentage difference
+        const percentDiff = (rankDiff / closingRank) * 100;
+        
+        if (percentDiff <= 5) {
+          // Within 5% - TARGET (good chance)
+          chance = 'Medium';
+          matchType = 'Target';
+        } else if (percentDiff <= 20) {
+          // Within 20% - DREAM (challenging but possible)
+          chance = 'Low';
+          matchType = 'Dream';
+        } else {
+          // More than 20% - Very difficult, don't show
+          return null;
+        }
       }
       
       return {
@@ -153,14 +160,14 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
         },
         matchType,
         chance,
-        chancePercentage: Math.abs(Math.round((rankDiff / rank) * 100)),
+        chancePercentage: Math.abs(Math.round((rankDiff / closingRank) * 100)),
         rankDifference: rankDiff,
         formattedRanks: {
           closing: closingRank.toLocaleString(),
           opening: (parseInt(cutoff.opening_rank) || 0).toLocaleString()
         }
       };
-    });
+    }).filter(r => r !== null); // Remove results beyond 20%
     
     // Sort by rank difference
     results.sort((a, b) => Math.abs(a.rankDifference) - Math.abs(b.rankDifference));
