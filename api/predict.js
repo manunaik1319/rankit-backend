@@ -106,13 +106,37 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
     results = results.map(cutoff => {
       const closingRank = parseInt(cutoff.closing_rank) || 0;
       const rankDiff = closingRank - rank;
-      const percentage = (rankDiff / closingRank) * 100;
       
-      let chance = 'Very Low';
-      let matchType = 'Reach';
-      if (percentage > 20) { chance = 'High'; matchType = 'Safe'; }
-      else if (percentage > 10) { chance = 'Medium'; matchType = 'Target'; }
-      else if (percentage > 0) { chance = 'Low'; matchType = 'Dream'; }
+      // Calculate percentage difference
+      // Positive rankDiff means closing rank is higher (worse) than user rank
+      // Negative rankDiff means closing rank is lower (better) than user rank
+      
+      let chance, matchType;
+      
+      if (rankDiff < 0) {
+        // Closing rank is better than user rank - SAFE
+        // User's rank is worse, so they have high chance
+        chance = 'High';
+        matchType = 'Safe';
+      } else {
+        // Closing rank is worse than user rank
+        // Calculate how much worse as a percentage
+        const percentage = (rankDiff / rank) * 100;
+        
+        if (percentage <= 5) {
+          // Within 5% - Target (good chance)
+          chance = 'Medium';
+          matchType = 'Target';
+        } else if (percentage <= 15) {
+          // Within 15% - Dream (possible but challenging)
+          chance = 'Low';
+          matchType = 'Dream';
+        } else {
+          // More than 15% - Very difficult
+          chance = 'Very Low';
+          matchType = 'Dream';
+        }
+      }
       
       return {
         college: {
@@ -136,7 +160,7 @@ export async function predictHandler(req, res, { cutoffsData, collegesData }) {
         },
         matchType,
         chance,
-        chancePercentage: Math.round(percentage),
+        chancePercentage: Math.abs(Math.round((rankDiff / rank) * 100)),
         rankDifference: rankDiff,
         formattedRanks: {
           closing: closingRank.toLocaleString(),
