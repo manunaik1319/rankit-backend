@@ -1,0 +1,2243 @@
+[
+  {
+    "id": "assam-university-silchar",
+    "name": "Assam University, Silchar",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "birla-institute-of-technology-deoghar-off-campus",
+    "name": "Birla Institute of Technology, Deoghar Off-Campus",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "birla-institute-of-technology-mesra-ranchi",
+    "name": "Birla Institute of Technology, Mesra, Ranchi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "birla-institute-of-technology-patna-off-campus",
+    "name": "Birla Institute of Technology, Patna Off-Campus",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "central-institute-of-technology-kokrajar-assam",
+    "name": "Central institute of Technology Kokrajar, Assam",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "central-university-of-haryana",
+    "name": "Central University of Haryana",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "central-university-of-jammu",
+    "name": "Central University of Jammu",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "central-university-of-rajasthan-rajasthan",
+    "name": "Central University of Rajasthan, Rajasthan",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "chhattisgarh-swami-vivekanada-technical-university",
+    "name": "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "cu-jharkhand",
+    "name": "CU Jharkhand",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "gati-shakti-vishwavidyalaya-vadodara",
+    "name": "Gati Shakti Vishwavidyalaya, Vadodara",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "ghani-khan-choudhary-institute-of-engineering-and-",
+    "name": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "gurukula-kangri-vishwavidyalaya-haridwar",
+    "name": "Gurukula Kangri Vishwavidyalaya, Haridwar",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "indian-institute-of-carpet-technology-bhadohi",
+    "name": "Indian Institute of Carpet Technology, Bhadohi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "indian-institute-of-handloom-technology-salem",
+    "name": "Indian Institute of Handloom Technology, Salem",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "indian-institute-of-handloom-technology-iiht-varan",
+    "name": "Indian Institute of Handloom Technology(IIHT), Varanasi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "institute-of-chemical-technology-mumbai-indian-oil",
+    "name": "Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "institute-of-engineering-and-technology-dr-h-s-gou",
+    "name": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "institute-of-infrastructure-technology-research-an",
+    "name": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "international-institute-of-information-technology-",
+    "name": "International Institute of Information Technology, Bhubaneswar",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "international-institute-of-information-technology-",
+    "name": "International Institute of Information Technology, Naya Raipur",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "islamic-university-of-science-and-technology-kashm",
+    "name": "Islamic University of Science and Technology Kashmir",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "j-k-institute-of-applied-physics-technology-depart",
+    "name": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "jawaharlal-nehru-university-delhi",
+    "name": "Jawaharlal Nehru University, Delhi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "mizoram-university-aizawl",
+    "name": "Mizoram University, Aizawl",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-advanced-manufacturing-techn",
+    "name": "National Institute of Advanced Manufacturing Technology, Ranchi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-electronics-and-information-",
+    "name": "National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-electronics-and-information-",
+    "name": "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-electronics-and-information-",
+    "name": "National Institute of Electronics and Information Technology, Gorakhpur (UP)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-electronics-and-information-",
+    "name": "National Institute of Electronics and Information Technology, Patna (Bihar)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-electronics-and-information-",
+    "name": "National Institute of Electronics and Information Technology, Ropar (Punjab)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-food-technology-entrepreneur",
+    "name": "National Institute of Food Technology Entrepreneurship and Management, Kundli",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "national-institute-of-food-technology-entrepreneur",
+    "name": "National Institute of Food Technology Entrepreneurship and Management, Thanjavur",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "north-eastern-regional-institute-of-science-and-te",
+    "name": "North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "north-eastern-hill-university-shillong",
+    "name": "North-Eastern Hill University, Shillong",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "puducherry-technological-university-puducherry",
+    "name": "Puducherry Technological University, Puducherry",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "punjab-engineering-college-chandigarh",
+    "name": "Punjab Engineering College, Chandigarh",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "rajiv-gandhi-national-aviation-university-fursatga",
+    "name": "Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "sant-longowal-institute-of-engineering-and-technol",
+    "name": "Sant Longowal Institute of Engineering and Technology",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "school-of-engineering-tezpur-university-napaam-tez",
+    "name": "School of Engineering, Tezpur University, Napaam, Tezpur",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "school-of-planning-architecture-bhopal",
+    "name": "School of Planning & Architecture, Bhopal",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "school-of-planning-architecture-new-delhi",
+    "name": "School of Planning & Architecture, New Delhi",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "school-of-planning-architecture-vijayawada",
+    "name": "School of Planning & Architecture: Vijayawada",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "school-of-studies-of-engineering-and-technology-gu",
+    "name": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "shri-g-s-institute-of-technology-and-science-indor",
+    "name": "Shri G. S. Institute of Technology and Science Indore",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "shri-mata-vaishno-devi-university-katra-jammu-kash",
+    "name": "Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "university-of-hyderabad",
+    "name": "University of Hyderabad",
+    "type": "GFTI",
+    "location": "",
+    "state": "",
+    "established": null,
+    "nirf_rank": null
+  },
+  {
+    "id": "atal-bihari-vajpayee-iiit-management-gwalior",
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+    "short_name": "IIIT Gwalior",
+    "type": "IIIT",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "established": 1997,
+    "website": "https://www.iiitgwalior.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-nagpur",
+    "name": "Indian Institute of Information Technology (IIIT) Nagpur",
+    "short_name": "IIIT Nagpur",
+    "type": "IIIT",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "established": 2016,
+    "website": "https://www.iiitnagpur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-nagpur",
+    "name": "Indian Institute of Information Technology (IIIT) Nagpur",
+    "short_name": "IIIT Nagpur",
+    "type": "IIIT",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "established": 2016,
+    "website": "https://www.iiitnagpur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-pune",
+    "name": "Indian Institute of Information Technology (IIIT) Pune",
+    "short_name": "IIIT Pune",
+    "type": "IIIT",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "established": 2016,
+    "website": "https://www.iiitpune.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-ranchi",
+    "name": "Indian Institute of Information Technology (IIIT) Ranchi",
+    "short_name": "IIIT Ranchi",
+    "type": "IIIT",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "established": 2017,
+    "website": "https://www.iiitranchi.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-sri-city-chittoor",
+    "name": "Indian Institute of Information Technology (IIIT), Sri City, Chittoor",
+    "short_name": "IIIT (IIIT), Sri City, Chittoor",
+    "type": "IIIT",
+    "state": "",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-kota-rajasthan",
+    "name": "Indian Institute of Information Technology (IIIT)Kota, Rajasthan",
+    "short_name": "IIIT Kota",
+    "type": "IIIT",
+    "state": "Rajasthan",
+    "city": "Kota",
+    "established": 2013,
+    "website": "https://www.iiitkota.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-allahabad",
+    "name": "Indian Institute of Information Technology Allahabad",
+    "short_name": "IIIT Allahabad",
+    "type": "IIIT",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "home_state": "Uttar Pradesh",
+    "official_code": "IIITA",
+    "established": 1999,
+    "nirf_rank": 65
+  },
+  {
+    "id": "iiit-bhagalpur",
+    "name": "Indian Institute of Information Technology Bhagalpur",
+    "short_name": "IIIT Bhagalpur",
+    "type": "IIIT",
+    "state": "Bihar",
+    "city": "Bhagalpur",
+    "established": 2017,
+    "website": "https://www.iiitbhagalpur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-bhopal",
+    "name": "Indian Institute of Information Technology Bhopal",
+    "short_name": "IIIT Bhopal",
+    "type": "IIIT",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "established": 2017,
+    "website": "https://www.iiitbhopal.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-design-manufacturing-kurnool-andhra-pradesh",
+    "name": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+    "short_name": "IIIT Kurnool",
+    "type": "IIIT",
+    "state": "Andhra Pradesh",
+    "city": "Kurnool",
+    "established": 2015,
+    "website": "https://www.iiitkurnool.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-guwahati",
+    "name": "Indian Institute of Information Technology Guwahati",
+    "short_name": "IIIT Guwahati",
+    "type": "IIIT",
+    "state": "",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-lucknow",
+    "name": "Indian Institute of Information Technology Lucknow",
+    "short_name": "IIIT Lucknow",
+    "type": "IIIT",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "established": 2015,
+    "website": "https://www.iiitlucknow.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-senapati-manipur",
+    "name": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR",
+    "short_name": "IIIT SENAPATI MANIPUR",
+    "type": "IIIT",
+    "state": "Manipur",
+    "city": "Manipur",
+    "established": 2015,
+    "website": "https://www.iiitmanipur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-surat",
+    "name": "Indian Institute of Information Technology Surat",
+    "short_name": "IIIT Surat",
+    "type": "IIIT",
+    "state": "",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-tiruchirappalli",
+    "name": "Indian Institute of Information Technology Tiruchirappalli",
+    "short_name": "IIIT Trichy",
+    "type": "IIIT",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "established": 2018,
+    "website": "https://www.iiittiruchirappalli.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-una",
+    "name": "Indian Institute of Information Technology Una",
+    "short_name": "IIIT Una",
+    "type": "IIIT",
+    "state": "Himachal Pradesh",
+    "city": "Una",
+    "home_state": "Himachal Pradesh",
+    "official_code": "IIITUNA",
+    "established": 2014,
+    "nirf_rank": 78
+  },
+  {
+    "id": "iiit-agartala",
+    "name": "Indian Institute of Information Technology, Agartala",
+    "short_name": "IIIT Agartala",
+    "type": "IIIT",
+    "state": "Tripura",
+    "city": "Agartala",
+    "established": 2016,
+    "website": "https://www.iiitagartala.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-design-manufacturing-kancheepuram",
+    "name": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+    "short_name": "IIIT, Design",
+    "type": "IIIT",
+    "state": "",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-raichur-karnataka",
+    "name": "Indian institute of information technology, Raichur, Karnataka",
+    "short_name": "IIIT, Raichur, Karnataka",
+    "type": "IIIT",
+    "state": "",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-vadodara-international-campus-diu-iiitvicd",
+    "name": "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",
+    "short_name": "IIIT Vadodara",
+    "type": "IIIT",
+    "state": "Gujarat",
+    "city": "Vadodara",
+    "established": 2013,
+    "website": "https://www.iiitvadodara.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-dharwad",
+    "name": "Indian Institute of Information Technology(IIIT) Dharwad",
+    "short_name": "IIIT Dharwad",
+    "type": "IIIT",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "established": 2015,
+    "website": "https://www.iiitdharwad.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-kalyani-west-bengal",
+    "name": "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",
+    "short_name": "IIIT Kalyani",
+    "type": "IIIT",
+    "state": "West Bengal",
+    "city": "Kalyani",
+    "established": 2014,
+    "website": "https://www.iiitkalyani.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-kilohrad-sonepat-haryana",
+    "name": "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",
+    "short_name": "IIIT Sonepat",
+    "type": "IIIT",
+    "state": "Haryana",
+    "city": "Sonepat",
+    "established": 2014,
+    "website": "https://www.iiitsonepat.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-kottayam",
+    "name": "Indian Institute of Information Technology(IIIT) Kottayam",
+    "short_name": "IIIT Kottayam",
+    "type": "IIIT",
+    "state": "Kerala",
+    "city": "Kottayam",
+    "established": 2015,
+    "website": "https://www.iiitkottayam.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-una-himachal-pradesh",
+    "name": "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",
+    "short_name": "IIIT Una",
+    "type": "IIIT",
+    "state": "Himachal Pradesh",
+    "city": "Una",
+    "established": 2014,
+    "website": "https://www.iiituna.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iiit-vadodara-gujrat",
+    "name": "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",
+    "short_name": "IIIT Vadodara",
+    "type": "IIIT",
+    "state": "Gujarat",
+    "city": "Vadodara",
+    "established": 2013,
+    "website": "https://www.iiitvadodara.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "pt-dwarka-prasad-mishra-iiit-design-manufacture-jabalpur",
+    "name": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+    "short_name": "Pt. Dwarka Prasad Mishra IIIT, Design",
+    "type": "IIIT",
+    "state": "Madhya Pradesh",
+    "city": "",
+    "established": 2015,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "iit-bhu-varanasi",
+    "name": "IIT (BHU) Varanasi",
+    "short_name": "IIT (BHU) Varanasi",
+    "type": "IIT",
+    "state": "Uttar Pradesh",
+    "city": "(BHU) Varanasi",
+    "home_state": "Uttar Pradesh",
+    "official_code": "IIT_BHU_VARANASI"
+  },
+  {
+    "id": "iit-ism-dhanbad",
+    "name": "IIT (ISM) Dhanbad",
+    "short_name": "IIT (ISM) Dhanbad",
+    "type": "IIT",
+    "state": "Jharkhand",
+    "city": "(ISM) Dhanbad",
+    "home_state": "Jharkhand",
+    "official_code": "IIT_ISM_DHANBAD"
+  },
+  {
+    "id": "iit-bhilai",
+    "name": "IIT Bhilai",
+    "short_name": "IIT Bhilai",
+    "type": "IIT",
+    "state": "Chhattisgarh",
+    "city": "Bhilai",
+    "home_state": "Chhattisgarh",
+    "official_code": "IIT_BHILAI"
+  },
+  {
+    "id": "iit-bhubaneswar",
+    "name": "IIT Bhubaneswar",
+    "short_name": "IIT Bhubaneswar",
+    "type": "IIT",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "home_state": "Odisha",
+    "official_code": "IIT_BHUBANESWAR"
+  },
+  {
+    "id": "iit-bombay",
+    "name": "IIT Bombay",
+    "short_name": "IIT Bombay",
+    "type": "IIT",
+    "state": "Maharashtra",
+    "city": "Bombay",
+    "home_state": "Maharashtra",
+    "official_code": "IIT_BOMBAY"
+  },
+  {
+    "id": "iit-delhi",
+    "name": "IIT Delhi",
+    "short_name": "IIT Delhi",
+    "type": "IIT",
+    "state": "Delhi",
+    "city": "Delhi",
+    "home_state": "Delhi",
+    "official_code": "IIT_DELHI"
+  },
+  {
+    "id": "iit-dharwad",
+    "name": "IIT Dharwad",
+    "short_name": "IIT Dharwad",
+    "type": "IIT",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "home_state": "Karnataka",
+    "official_code": "IIT_DHARWAD"
+  },
+  {
+    "id": "iit-gandhinagar",
+    "name": "IIT Gandhinagar",
+    "short_name": "IIT Gandhinagar",
+    "type": "IIT",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "home_state": "Gujarat",
+    "official_code": "IIT_GANDHINAGAR"
+  },
+  {
+    "id": "iit-goa",
+    "name": "IIT Goa",
+    "short_name": "IIT Goa",
+    "type": "IIT",
+    "state": "Goa",
+    "city": "Goa",
+    "home_state": "Goa",
+    "official_code": "IIT_GOA"
+  },
+  {
+    "id": "iit-guwahati",
+    "name": "IIT Guwahati",
+    "short_name": "IIT Guwahati",
+    "type": "IIT",
+    "state": "Assam",
+    "city": "Guwahati",
+    "home_state": "Assam",
+    "official_code": "IIT_GUWAHATI"
+  },
+  {
+    "id": "iit-hyderabad",
+    "name": "IIT Hyderabad",
+    "short_name": "IIT Hyderabad",
+    "type": "IIT",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "home_state": "Telangana",
+    "official_code": "IIT_HYDERABAD"
+  },
+  {
+    "id": "iit-indore",
+    "name": "IIT Indore",
+    "short_name": "IIT Indore",
+    "type": "IIT",
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "home_state": "Madhya Pradesh",
+    "official_code": "IIT_INDORE"
+  },
+  {
+    "id": "iit-jammu",
+    "name": "IIT Jammu",
+    "short_name": "IIT Jammu",
+    "type": "IIT",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "home_state": "Jammu and Kashmir",
+    "official_code": "IIT_JAMMU"
+  },
+  {
+    "id": "iit-jodhpur",
+    "name": "IIT Jodhpur",
+    "short_name": "IIT Jodhpur",
+    "type": "IIT",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "home_state": "Rajasthan",
+    "official_code": "IIT_JODHPUR"
+  },
+  {
+    "id": "iit-kanpur",
+    "name": "IIT Kanpur",
+    "short_name": "IIT Kanpur",
+    "type": "IIT",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "home_state": "Uttar Pradesh",
+    "official_code": "IIT_KANPUR"
+  },
+  {
+    "id": "iit-kharagpur",
+    "name": "IIT Kharagpur",
+    "short_name": "IIT Kharagpur",
+    "type": "IIT",
+    "state": "West Bengal",
+    "city": "Kharagpur",
+    "home_state": "West Bengal",
+    "official_code": "IIT_KHARAGPUR"
+  },
+  {
+    "id": "iit-madras",
+    "name": "IIT Madras",
+    "short_name": "IIT Madras",
+    "type": "IIT",
+    "state": "Tamil Nadu",
+    "city": "Madras",
+    "home_state": "Tamil Nadu",
+    "official_code": "IIT_MADRAS"
+  },
+  {
+    "id": "iit-palakkad",
+    "name": "IIT Palakkad",
+    "short_name": "IIT Palakkad",
+    "type": "IIT",
+    "state": "Kerala",
+    "city": "Palakkad",
+    "home_state": "Kerala",
+    "official_code": "IIT_PALAKKAD"
+  },
+  {
+    "id": "iit-patna",
+    "name": "IIT Patna",
+    "short_name": "IIT Patna",
+    "type": "IIT",
+    "state": "Bihar",
+    "city": "Patna",
+    "home_state": "Bihar",
+    "official_code": "IIT_PATNA"
+  },
+  {
+    "id": "iit-ropar",
+    "name": "IIT Ropar",
+    "short_name": "IIT Ropar",
+    "type": "IIT",
+    "state": "Punjab",
+    "city": "Ropar",
+    "home_state": "Punjab",
+    "official_code": "IIT_ROPAR"
+  },
+  {
+    "id": "iit-tirupati",
+    "name": "IIT Tirupati",
+    "short_name": "IIT Tirupati",
+    "type": "IIT",
+    "state": "Andhra Pradesh",
+    "city": "Tirupati",
+    "home_state": "Andhra Pradesh",
+    "official_code": "IIT_TIRUPATI"
+  },
+  {
+    "id": "iit-mandi",
+    "name": "Indian Institute of Technology Mandi",
+    "short_name": "IIT Mandi",
+    "type": "IIT",
+    "state": "Himachal Pradesh",
+    "city": "Mandi",
+    "home_state": null,
+    "official_code": "IITMANDI",
+    "established": 2009,
+    "nirf_rank": 23
+  },
+  {
+    "id": "iit-roorkee",
+    "name": "Indian Institute of Technology Roorkee",
+    "short_name": "IIT Roorkee",
+    "type": "IIT",
+    "state": "Uttarakhand",
+    "city": "Roorkee",
+    "home_state": null,
+    "official_code": "IITR",
+    "established": 1847,
+    "nirf_rank": 7
+  },
+  {
+    "id": "nit-jalandhar",
+    "name": "Dr. B R Ambedkar National Institute of Technology Jalandhar",
+    "short_name": "NIT Jalandhar",
+    "type": "NIT",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "home_state": "Punjab",
+    "official_code": "NITJAL",
+    "established": 1987,
+    "nirf_rank": 52
+  },
+  {
+    "id": "dr-b-r-ambedkar-nit-jalandhar",
+    "name": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "short_name": "NIT Jalandhar",
+    "type": "NIT",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "established": 1987,
+    "website": "https://www.nitj.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "indian-institute-of-engineering-science-and-technology-shibpur",
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "short_name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "type": "NIT",
+    "state": "",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "malaviya-nit-jaipur",
+    "name": "Malaviya National Institute of Technology Jaipur",
+    "short_name": "NIT Jaipur",
+    "type": "NIT",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "established": 1963,
+    "website": "https://www.nitjaipur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "maulana-azad-nit-bhopal",
+    "name": "Maulana Azad National Institute of Technology Bhopal",
+    "short_name": "NIT Bhopal",
+    "type": "NIT",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "established": 1988,
+    "website": "https://www.nitbhopal.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "motilal-nehru-nit-allahabad",
+    "name": "Motilal Nehru National Institute of Technology Allahabad",
+    "short_name": "NIT Allahabad",
+    "type": "NIT",
+    "state": "Uttar Pradesh",
+    "city": "Allahabad",
+    "established": 2002,
+    "website": "https://www.nitallahabad.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-agartala",
+    "name": "National Institute of Technology Agartala",
+    "short_name": "NIT Agartala",
+    "type": "NIT",
+    "state": "Tripura",
+    "city": "Agartala",
+    "established": 2006,
+    "website": "https://www.nitagartala.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-arunachal-pradesh",
+    "name": "National Institute of Technology Arunachal Pradesh",
+    "short_name": "NIT Arunachal Pradesh",
+    "type": "NIT",
+    "state": "Arunachal Pradesh",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-calicut",
+    "name": "National Institute of Technology Calicut",
+    "short_name": "NIT Calicut",
+    "type": "NIT",
+    "state": "Kerala",
+    "city": "Calicut",
+    "established": 1961,
+    "website": "https://www.nitcalicut.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-delhi",
+    "name": "National Institute of Technology Delhi",
+    "short_name": "NIT Delhi",
+    "type": "NIT",
+    "state": "Delhi",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-durgapur",
+    "name": "National Institute of Technology Durgapur",
+    "short_name": "NIT Durgapur",
+    "type": "NIT",
+    "state": "West Bengal",
+    "city": "Durgapur",
+    "established": 1960,
+    "website": "https://www.nitdurgapur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-goa",
+    "name": "National Institute of Technology Goa",
+    "short_name": "NIT Goa",
+    "type": "NIT",
+    "state": "Goa",
+    "city": "Goa",
+    "established": 2010,
+    "website": "https://www.nitgoa.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-hamirpur",
+    "name": "National Institute of Technology Hamirpur",
+    "short_name": "NIT Hamirpur",
+    "type": "NIT",
+    "state": "Himachal Pradesh",
+    "city": "Hamirpur",
+    "home_state": "Himachal Pradesh",
+    "official_code": "NITHP",
+    "established": 1986,
+    "nirf_rank": 58
+  },
+  {
+    "id": "nit-surathkal",
+    "name": "National Institute of Technology Karnataka Surathkal",
+    "short_name": "NIT Surathkal",
+    "type": "NIT",
+    "state": "Karnataka",
+    "city": "Surathkal",
+    "home_state": "Karnataka",
+    "official_code": "NITK",
+    "established": 1960,
+    "nirf_rank": 13
+  },
+  {
+    "id": "nit-karnataka-surathkal",
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "short_name": "NIT Surathkal",
+    "type": "NIT",
+    "state": "Karnataka",
+    "city": "Surathkal",
+    "established": 1960,
+    "website": "https://www.nitk.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-kurukshetra",
+    "name": "National Institute of Technology Kurukshetra",
+    "short_name": "NIT Kurukshetra",
+    "type": "NIT",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "home_state": "Haryana",
+    "official_code": "NITKKR",
+    "established": 1963,
+    "nirf_rank": 45
+  },
+  {
+    "id": "nit-meghalaya",
+    "name": "National Institute of Technology Meghalaya",
+    "short_name": "NIT Meghalaya",
+    "type": "NIT",
+    "state": "Meghalaya",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-nagaland",
+    "name": "National Institute of Technology Nagaland",
+    "short_name": "NIT Nagaland",
+    "type": "NIT",
+    "state": "Nagaland",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-patna",
+    "name": "National Institute of Technology Patna",
+    "short_name": "NIT Patna",
+    "type": "NIT",
+    "state": "Bihar",
+    "city": "Patna",
+    "established": 1924,
+    "website": "https://www.nitpatna.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-puducherry",
+    "name": "National Institute of Technology Puducherry",
+    "short_name": "NIT Puducherry",
+    "type": "NIT",
+    "state": "Puducherry",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-raipur",
+    "name": "National Institute of Technology Raipur",
+    "short_name": "NIT Raipur",
+    "type": "NIT",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "established": 1956,
+    "website": "https://www.nitraipur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-sikkim",
+    "name": "National Institute of Technology Sikkim",
+    "short_name": "NIT Sikkim",
+    "type": "NIT",
+    "state": "",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-trichy",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "short_name": "NIT Trichy",
+    "type": "NIT",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "home_state": "Tamil Nadu",
+    "official_code": "NITT",
+    "established": 1964,
+    "nirf_rank": 9
+  },
+  {
+    "id": "nit-warangal",
+    "name": "National Institute of Technology Warangal",
+    "short_name": "NIT Warangal",
+    "type": "NIT",
+    "state": "Telangana",
+    "city": "Warangal",
+    "home_state": "Telangana",
+    "official_code": "NITW",
+    "established": 1959,
+    "nirf_rank": 19
+  },
+  {
+    "id": "nit-andhra-pradesh",
+    "name": "National Institute of Technology, Andhra Pradesh",
+    "short_name": "NIT Andhra Pradesh",
+    "type": "NIT",
+    "state": "Andhra Pradesh",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-jamshedpur",
+    "name": "National Institute of Technology, Jamshedpur",
+    "short_name": "NIT Jamshedpur",
+    "type": "NIT",
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "established": 1960,
+    "website": "https://www.nitjamshedpur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-manipur",
+    "name": "National Institute of Technology, Manipur",
+    "short_name": "NIT Manipur",
+    "type": "NIT",
+    "state": "Manipur",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-mizoram",
+    "name": "National Institute of Technology, Mizoram",
+    "short_name": "NIT Mizoram",
+    "type": "NIT",
+    "state": "Mizoram",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-rourkela",
+    "name": "National Institute of Technology, Rourkela",
+    "short_name": "NIT Rourkela",
+    "type": "NIT",
+    "state": "Odisha",
+    "city": "Rourkela",
+    "established": 1961,
+    "website": "https://www.nitrourkela.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-silchar",
+    "name": "National Institute of Technology, Silchar",
+    "short_name": "NIT Silchar",
+    "type": "NIT",
+    "state": "Assam",
+    "city": "Silchar",
+    "established": 1967,
+    "website": "https://www.nitsilchar.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-srinagar",
+    "name": "National Institute of Technology, Srinagar",
+    "short_name": "NIT Srinagar",
+    "type": "NIT",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "established": 1960,
+    "website": "https://www.nitsrinagar.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-tiruchirappalli",
+    "name": "National Institute of Technology, Tiruchirappalli",
+    "short_name": "NIT Tiruchirappalli",
+    "type": "NIT",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "established": 1964,
+    "website": "https://www.nitt.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "nit-uttarakhand",
+    "name": "National Institute of Technology, Uttarakhand",
+    "short_name": "NIT Uttarakhand",
+    "type": "NIT",
+    "state": "Uttarakhand",
+    "city": "",
+    "established": 1960,
+    "website": null,
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "sardar-vallabhbhai-nit-surat",
+    "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "short_name": "NIT Surat",
+    "type": "NIT",
+    "state": "Gujarat",
+    "city": "Surat",
+    "established": 1961,
+    "website": "https://www.nitsurat.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  },
+  {
+    "id": "visvesvaraya-nit-nagpur",
+    "name": "Visvesvaraya National Institute of Technology, Nagpur",
+    "short_name": "NIT Nagpur",
+    "type": "NIT",
+    "state": "",
+    "city": "Nagpur",
+    "established": 1960,
+    "website": "https://www.nitnagpur.ac.in",
+    "ranking": {
+      "nirf_overall": null,
+      "nirf_engineering": null
+    },
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Hostels",
+      "Sports Complex",
+      "Cafeteria",
+      "Research Labs",
+      "Auditorium"
+    ],
+    "placement_stats": {
+      "average_package": null,
+      "highest_package": null,
+      "placement_percentage": null
+    }
+  }
+]

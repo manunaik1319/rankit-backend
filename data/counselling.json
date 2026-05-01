@@ -1,0 +1,106 @@
+{
+  "choice_filling_tips": [
+    {
+      "title": "Fill Maximum Choices",
+      "description": "There's no limit to choices. Fill at least 100-150 options to maximize your chances. More choices = more safety net."
+    },
+    {
+      "title": "Follow Safe-Target-Dream Strategy",
+      "description": "Maintain a balanced mix: 40% Safe options (high probability), 40% Target options (realistic), 20% Dream options (ambitious)."
+    },
+    {
+      "title": "Order Matters Strictly",
+      "description": "The system allocates the FIRST available choice from top. Never put a less preferred college above a more preferred one."
+    },
+    {
+      "title": "Branch vs College Dilemma",
+      "description": "For CSE/IT: Branch > College. For core branches: College brand matters more. Consider long-term career goals."
+    },
+    {
+      "title": "Don't Ignore Home State Quota",
+      "description": "Home state quota significantly improves your chances. Always include home state colleges in your list."
+    },
+    {
+      "title": "Research Before Filling",
+      "description": "Check college placements, infrastructure, faculty, and alumni reviews. Don't rely only on rankings."
+    }
+  ],
+  "common_mistakes": [
+    {
+      "mistake": "Filling Only Dream Colleges",
+      "impact": "High risk of not getting any seat",
+      "solution": "Always include safe options. Better to have a good college than no college."
+    },
+    {
+      "mistake": "Ignoring Cutoff Trends",
+      "impact": "Unrealistic expectations",
+      "solution": "Analyze 3-year cutoff trends. Cutoffs can vary but patterns exist."
+    },
+    {
+      "mistake": "Random Branch Selection",
+      "impact": "Career dissatisfaction",
+      "solution": "Research each branch thoroughly. Consider your interests and aptitude."
+    },
+    {
+      "mistake": "Hype-Based Decisions",
+      "impact": "Wrong college/branch choice",
+      "solution": "Don't follow trends blindly. Make informed decisions based on data."
+    },
+    {
+      "mistake": "Not Understanding Float/Freeze",
+      "impact": "Losing better options",
+      "solution": "Float if you want to upgrade, Freeze only if 100% satisfied with current seat."
+    }
+  ],
+  "josaa_explanation": {
+    "what": "Joint Seat Allocation Authority - centralized admission process for IITs, NITs, IIITs, and GFTIs",
+    "rounds": 6,
+    "process": [
+      "Register on JoSAA portal with JEE credentials",
+      "Fill and lock choices (can modify between rounds)",
+      "Seat allocation based on rank and preferences",
+      "Accept seat by choosing Freeze/Float/Slide",
+      "Pay seat acceptance fee",
+      "Report to college for document verification"
+    ],
+    "important_points": [
+      "Seat allocation is done in order of your choice list",
+      "You can only get one seat per round",
+      "Freezing a seat means you exit counselling",
+      "Floating allows you to look for better options in next rounds"
+    ]
+  },
+  "csab_explanation": {
+    "what": "Central Seat Allocation Board - special rounds after JoSAA for leftover seats in NIT+ system",
+    "rounds": 2,
+    "difference_from_josaa": "CSAB only includes NITs, IIITs, and GFTIs. IIT seats are NOT part of CSAB.",
+    "who_can_participate": [
+      "Students who didn't get any seat in JoSAA",
+      "Students who want to upgrade from their JoSAA seat",
+      "Fresh candidates who didn't participate in JoSAA"
+    ],
+    "risk": "CSAB is riskier as fewer seats available. Only participate if you're willing to take calculated risk."
+  },
+  "faqs": [
+    {
+      "question": "What is the difference between CRL and Category Rank?",
+      "answer": "CRL (Common Rank List) is your All India Rank. Category Rank is your rank within your category (OBC/SC/ST/EWS). For seat allocation, category rank is used for reserved seats."
+    },
+    {
+      "question": "Can I get a seat if my rank is slightly above closing rank?",
+      "answer": "It's possible but risky. Cutoffs vary by 5-10% each year. If your rank is within 5% of closing rank, you have a chance in later rounds or CSAB."
+    },
+    {
+      "question": "Should I choose IIT lower branch or NIT top branch?",
+      "answer": "Depends on your goals. For placements and coding career: NIT CSE > IIT lower branch. For research and brand value: IIT > NIT."
+    },
+    {
+      "question": "What is Float, Freeze, and Slide?",
+      "answer": "Float: Keep current seat but look for ANY better option. Freeze: Accept seat and exit counselling. Slide: Keep current seat but look for better BRANCH in SAME college."
+    },
+    {
+      "question": "Can I participate in state counselling after JoSAA?",
+      "answer": "Yes, you can participate in both. But if you accept a JoSAA seat, you may need to pay fees for both initially."
+    }
+  ]
+}

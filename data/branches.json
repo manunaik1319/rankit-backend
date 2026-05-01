@@ -1,0 +1,1708 @@
+[
+  {
+    "code": "AE",
+    "name": "Aerospace Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Aerospace Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "AI",
+    "name": "Artificial Intelligence and Data Engineering",
+    "scope": "Excellent",
+    "difficulty": "Very High",
+    "coding_level": "Very High",
+    "core_jobs": "AI Engineer, Machine Learning Engineer, Research Scientist",
+    "flexibility": "Very High",
+    "description": "AI focuses on creating intelligent systems, machine learning algorithms, and automated decision-making systems.",
+    "best_for": [
+      "Students fascinated by artificial intelligence",
+      "Those interested in machine learning research",
+      "Future AI engineers and researchers"
+    ],
+    "average_package": "15-25 LPA",
+    "top_recruiters": [
+      "Google",
+      "Microsoft",
+      "NVIDIA",
+      "OpenAI",
+      "DeepMind"
+    ]
+  },
+  {
+    "code": "AR",
+    "name": "Architecture",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Architecture is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "BAB(",
+    "name": "Biosciences and Bioengineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Biosciences and Bioengineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "BIMA",
+    "name": "B.Tech in Mathematics and Computing",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "B.Tech in Mathematics and Computing is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "BME(",
+    "name": "Bio Medical Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Bio Medical Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "BT",
+    "name": "Biotechnology and Biochemical Engineering",
+    "scope": "Good",
+    "difficulty": "High",
+    "coding_level": "Moderate",
+    "core_jobs": "Biotechnology Researcher, Bioprocess Engineer, Quality Control Analyst",
+    "flexibility": "High",
+    "description": "BT applies engineering principles to biological systems for healthcare, pharmaceuticals, and environmental solutions.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-10 LPA",
+    "top_recruiters": [
+      "Biocon",
+      "Dr. Reddy's",
+      "Cipla",
+      "Sun Pharma",
+      "Glenmark"
+    ]
+  },
+  {
+    "code": "BT(Y",
+    "name": "Bio Technology",
+    "scope": "Good",
+    "difficulty": "High",
+    "coding_level": "Moderate",
+    "core_jobs": "Biotechnology Researcher, Bioprocess Engineer, Quality Control Analyst",
+    "flexibility": "High",
+    "description": "Biotechnology applies engineering principles to biological systems for healthcare and pharmaceuticals.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-10 LPA",
+    "top_recruiters": [
+      "Biocon",
+      "Dr. Reddy's",
+      "Cipla",
+      "Sun Pharma",
+      "Glenmark"
+    ]
+  },
+  {
+    "code": "BTAM",
+    "name": "B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree))",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree)) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "C(YB",
+    "name": "Chemistry)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Chemistry) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "C(YI",
+    "name": "Chemistry",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Chemistry is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "CE",
+    "name": "Civil Engineering",
+    "scope": "Moderate",
+    "difficulty": "Medium",
+    "coding_level": "Very Low",
+    "core_jobs": "Structural Engineer, Construction Manager, Urban Planner, PSU Jobs",
+    "flexibility": "Low",
+    "description": "CE focuses on infrastructure, construction, structural design, and urban planning. Strong opportunities in government projects and PSUs.",
+    "best_for": [
+      "Students interested in infrastructure and construction",
+      "Those targeting government jobs and PSUs",
+      "Future architects of cities and bridges"
+    ],
+    "average_package": "5-8 LPA",
+    "top_recruiters": [
+      "L&T",
+      "Tata Projects",
+      "DLF",
+      "NHAI",
+      "PSUs"
+    ]
+  },
+  {
+    "code": "CH",
+    "name": "Chemical Engineering",
+    "scope": "Good",
+    "difficulty": "High",
+    "coding_level": "Low",
+    "core_jobs": "Chemical Engineer, Process Engineer, Research Scientist",
+    "flexibility": "High",
+    "description": "CH involves chemical processes, materials science, and industrial production of chemicals and materials.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "7-11 LPA",
+    "top_recruiters": [
+      "Reliance",
+      "ONGC",
+      "Indian Oil",
+      "BPCL",
+      "Tata Chemicals"
+    ]
+  },
+  {
+    "code": "CHE",
+    "name": "Chemical Engineering",
+    "scope": "Moderate",
+    "difficulty": "High",
+    "coding_level": "Very Low",
+    "core_jobs": "Process Engineer, Chemical Plant, Petroleum, Pharma, PSU Jobs",
+    "flexibility": "Low",
+    "description": "CHE deals with chemical processes, petroleum refining, and pharmaceutical production. Strong PSU opportunities.",
+    "best_for": [
+      "Students interested in chemistry and processes",
+      "Those targeting oil and gas PSUs",
+      "Future process and plant engineers"
+    ],
+    "average_package": "7-10 LPA",
+    "top_recruiters": [
+      "IOCL",
+      "BPCL",
+      "HPCL",
+      "Reliance",
+      "PSUs"
+    ]
+  },
+  {
+    "code": "CM(Y",
+    "name": "Computational Mathematics)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Computational Mathematics) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "CR",
+    "name": "Ceramic Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Ceramic Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "CSB",
+    "name": "Computer Science and Business",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Computer Science and Business is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "CSE",
+    "name": "Computer Science and Engineering",
+    "scope": "Excellent",
+    "difficulty": "High",
+    "coding_level": "Very High",
+    "core_jobs": "Software Engineer, Data Scientist, ML Engineer, Full Stack Developer",
+    "flexibility": "Very High",
+    "description": "CSE focuses on software development, algorithms, data structures, AI/ML, and computer systems. It's the most sought-after branch with highest placement packages.",
+    "best_for": [
+      "Students passionate about coding and problem-solving",
+      "Those interested in tech startups and product companies",
+      "Aspiring software engineers and data scientists"
+    ],
+    "average_package": "12-18 LPA",
+    "top_recruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Flipkart",
+      "Adobe"
+    ]
+  },
+  {
+    "code": "CSE-AIML",
+    "name": "Computer Science Engineering (Artificial Intelligence and Machine Learning)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Computer Science Engineering (Artificial Intelligence and Machine Learning) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "CSE-DSA",
+    "name": "Computer Science Engineering (Data Science and Analytics)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Computer Science Engineering (Data Science and Analytics) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "DE(Y",
+    "name": "Design Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Design Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "DS",
+    "name": "CSE ( Data Science & Analytics)",
+    "scope": "Excellent",
+    "difficulty": "High",
+    "coding_level": "Very High",
+    "core_jobs": "Data Scientist, Data Analyst, Business Intelligence Analyst",
+    "flexibility": "Very High",
+    "description": "DS combines statistics, programming, and domain expertise to extract insights from large datasets.",
+    "best_for": [
+      "Students who love working with data",
+      "Those interested in statistics and analytics",
+      "Future data scientists and analysts"
+    ],
+    "average_package": "12-20 LPA",
+    "top_recruiters": [
+      "Google",
+      "Amazon",
+      "Netflix",
+      "Uber",
+      "Airbnb"
+    ]
+  },
+  {
+    "code": "EACM",
+    "name": "Engineering and Computational Mechanics",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Engineering and Computational Mechanics is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "EATE",
+    "name": "Electronics and Telecommunication Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Electronics and Telecommunication Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "EAVE",
+    "name": "Electronics and VLSI Engineering",
+    "scope": "Good",
+    "difficulty": "High",
+    "coding_level": "Moderate",
+    "core_jobs": "Electronics Engineer, VLSI Engineer, Embedded Systems Developer",
+    "flexibility": "High",
+    "description": "Electronics and VLSI Engineering focuses on microelectronics, chip design, and embedded systems.",
+    "best_for": [
+      "Students interested in microelectronics",
+      "Those passionate about chip design",
+      "Future VLSI and embedded systems engineers"
+    ],
+    "average_package": "8-14 LPA",
+    "top_recruiters": [
+      "Intel",
+      "Qualcomm",
+      "Broadcom",
+      "NVIDIA",
+      "AMD"
+    ]
+  },
+  {
+    "code": "ECE",
+    "name": "Electronics and Communication Engineering",
+    "scope": "Very Good",
+    "difficulty": "High",
+    "coding_level": "Medium",
+    "core_jobs": "VLSI Engineer, Network Engineer, Embedded Systems, Telecom",
+    "flexibility": "High",
+    "description": "ECE combines electronics, communication systems, signal processing, and embedded systems. Offers flexibility to switch to software roles or pursue core electronics.",
+    "best_for": [
+      "Students interested in both hardware and software",
+      "Those fascinated by circuits and communication systems",
+      "Future robotics and IoT engineers"
+    ],
+    "average_package": "8-12 LPA",
+    "top_recruiters": [
+      "Intel",
+      "Qualcomm",
+      "Samsung",
+      "TCS",
+      "Infosys"
+    ]
+  },
+  {
+    "code": "EE",
+    "name": "Electrical Engineering",
+    "scope": "Good",
+    "difficulty": "Very High",
+    "coding_level": "Low",
+    "core_jobs": "Power Systems Engineer, Control Systems, PSU Jobs, Electrical Design",
+    "flexibility": "Medium",
+    "description": "EE deals with power generation, transmission, electrical machines, and control systems. Strong foundation for PSU jobs and core electrical industries.",
+    "best_for": [
+      "Students interested in power systems and energy",
+      "Those targeting PSU jobs (NTPC, PGCIL, etc.)",
+      "Future electrical grid and automation engineers"
+    ],
+    "average_package": "7-10 LPA",
+    "top_recruiters": [
+      "ABB",
+      "Siemens",
+      "L&T",
+      "BHEL",
+      "PSUs"
+    ]
+  },
+  {
+    "code": "EE(D",
+    "name": "Electronics Engineering (VLSI Design and Technology)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Electronics Engineering (VLSI Design and Technology) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "EE(Y",
+    "name": "Energy Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Energy Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "EP(Y",
+    "name": "Engineering Physics",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Engineering Physics is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "FPE(",
+    "name": "Food Process Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Food Process Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "IBTA",
+    "name": "Integrated B. Tech.(IT) and M. Tech (IT)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Integrated B. Tech.(IT) and M. Tech (IT) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "IC",
+    "name": "Instrumentation and Control Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Instrumentation and Control Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "IE",
+    "name": "Industrial Internet of Things",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Industrial Internet of Things is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "Information Technology",
+    "scope": "Excellent",
+    "difficulty": "Medium",
+    "coding_level": "Very High",
+    "core_jobs": "Software Developer, System Administrator, Network Engineer, IT Consultant",
+    "flexibility": "Very High",
+    "description": "IT focuses on software applications, databases, networking, and information systems. Very similar to CSE with slightly more focus on applications.",
+    "best_for": [
+      "Students interested in software and IT services",
+      "Those who prefer application development over theory",
+      "Future IT consultants and system architects"
+    ],
+    "average_package": "10-15 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Accenture"
+    ]
+  },
+  {
+    "code": "LS(Y",
+    "name": "Life Science",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Life Science is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "M(YI",
+    "name": "Mathematics",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mathematics is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "M&C(",
+    "name": "Mathematics & Computing)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mathematics & Computing) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "M&VE",
+    "name": "Microelectronics & VLSI Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Microelectronics & VLSI Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MAAE",
+    "name": "Mechatronics and Automation Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mechatronics and Automation Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MAC(",
+    "name": "Mathematics and Computing",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mathematics and Computing is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MACT",
+    "name": "Mathematics and Computing Technology)",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mathematics and Computing Technology) is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MAME",
+    "name": "Metallurgy and Materials Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Metallurgy and Materials Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MASC",
+    "name": "Mathematics and Scientific Computing",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mathematics and Scientific Computing is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "ME",
+    "name": "Mechanical Engineering",
+    "scope": "Good",
+    "difficulty": "High",
+    "coding_level": "Low",
+    "core_jobs": "Design Engineer, Manufacturing, Automotive, Aerospace, PSU Jobs",
+    "flexibility": "Medium",
+    "description": "ME covers thermodynamics, mechanics, manufacturing, and design. Traditional core branch with opportunities in automotive, aerospace, and manufacturing industries.",
+    "best_for": [
+      "Students interested in machines and manufacturing",
+      "Those passionate about automotive and aerospace",
+      "Future design and production engineers"
+    ],
+    "average_package": "6-9 LPA",
+    "top_recruiters": [
+      "Tata Motors",
+      "Mahindra",
+      "Ashok Leyland",
+      "L&T",
+      "PSUs"
+    ]
+  },
+  {
+    "code": "ME(Y",
+    "name": "Materials Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Materials Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MN",
+    "name": "Mining Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Mining Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MSAE",
+    "name": "Materials Science and Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Materials Science and Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Metallurgical and Materials Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Metallurgical and Materials Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "P(YB",
+    "name": "Planning",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Planning is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "P(YI",
+    "name": "Physics",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Physics is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "PACE",
+    "name": "Physics and Computational Engineering",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Physics and Computational Engineering is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Industrial and Production Engineering",
+    "scope": "Moderate",
+    "difficulty": "Moderate",
+    "coding_level": "Low",
+    "core_jobs": "Production Engineer, Manufacturing Engineer, Quality Engineer",
+    "flexibility": "Moderate",
+    "description": "Production Engineering focuses on manufacturing processes, quality control, and industrial optimization.",
+    "best_for": [
+      "Students interested in manufacturing",
+      "Those passionate about production optimization",
+      "Future production and quality engineers"
+    ],
+    "average_package": "6-10 LPA",
+    "top_recruiters": [
+      "Tata Motors",
+      "Mahindra",
+      "L&T",
+      "Bosch",
+      "Manufacturing Companies"
+    ]
+  },
+  {
+    "code": "PIE",
+    "name": "Production and Industrial Engineering",
+    "scope": "Moderate",
+    "difficulty": "Medium",
+    "coding_level": "Low",
+    "core_jobs": "Production Manager, Quality Control, Supply Chain, Operations",
+    "flexibility": "Medium",
+    "description": "PIE combines manufacturing processes, quality control, and industrial management. Focus on optimizing production systems.",
+    "best_for": [
+      "Students interested in manufacturing and operations",
+      "Those who want to work in production management",
+      "Future operations and supply chain managers"
+    ],
+    "average_package": "6-9 LPA",
+    "top_recruiters": [
+      "Manufacturing companies",
+      "Automotive",
+      "FMCG",
+      "Consulting"
+    ]
+  },
+  {
+    "code": "ROB",
+    "name": "ROBOTICS & AUTOMATION",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "ROBOTICS & AUTOMATION is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "SET(",
+    "name": "SUSTAINABLE ENERGY TECHNOLOGIES",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "SUSTAINABLE ENERGY TECHNOLOGIES is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "SM(Y",
+    "name": "Smart Manufacturing",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Smart Manufacturing is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "TT",
+    "name": "Textile Technology",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "Textile Technology is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "code": "VDAT",
+    "name": "VLSI Design and Technology",
+    "scope": "Good",
+    "difficulty": "Moderate",
+    "coding_level": "Moderate",
+    "core_jobs": "Engineer, Analyst, Consultant",
+    "flexibility": "Moderate",
+    "description": "VLSI Design and Technology is a specialized engineering discipline with diverse career opportunities.",
+    "best_for": [
+      "Students interested in this field",
+      "Those passionate about engineering",
+      "Future engineers and innovators"
+    ],
+    "average_package": "6-12 LPA",
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "Reliance"
+    ]
+  },
+  {
+    "id": "gfti-branch-1",
+    "name": "Agricultural Engineering",
+    "fullName": "Agricultural Engineering (4 Years, Bachelor of Technology)",
+    "category": "Agricultural",
+    "description": "Agricultural Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-5",
+    "name": "Artificial Intelligence and Machine Learning",
+    "fullName": "Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Artificial Intelligence and Machine Learning program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-9",
+    "name": "Electrical and Electronics Engineering",
+    "fullName": "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "Electrical and Electronics Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-10",
+    "name": "Food Engineering and Technology",
+    "fullName": "Food Engineering and Technology (4 Years, Bachelor of Technology)",
+    "category": "Agricultural",
+    "description": "Food Engineering and Technology program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-15",
+    "name": "Quantitative Economics & Data Science",
+    "fullName": "Quantitative Economics & Data Science (5 Years, Integrated Master of Science)",
+    "category": "Other Engineering",
+    "description": "Quantitative Economics & Data Science program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-17",
+    "name": "Carpet and Textile Technology",
+    "fullName": "Carpet and Textile Technology (4 Years, Bachelor of Technology)",
+    "category": "Textile",
+    "description": "Carpet and Textile Technology program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-18",
+    "name": "Computer Engineering",
+    "fullName": "Computer Engineering (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-19",
+    "name": "Animation and VFX",
+    "fullName": "Animation and VFX (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Animation and VFX program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-20",
+    "name": "Artificial Intelligence and Data Science",
+    "fullName": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Artificial Intelligence and Data Science program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-23",
+    "name": "Computer Science and Engineering with Major in Artificial Intelligence",
+    "fullName": "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Science and Engineering with Major in Artificial Intelligence program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-24",
+    "name": "Electronic Engineering",
+    "fullName": "Electronic Engineering (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Electronic Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-27",
+    "name": "Computer Science and Engineering)",
+    "fullName": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "category": "Computer Science & IT",
+    "description": "Computer Science and Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-28",
+    "name": "Electrical Engineering)",
+    "fullName": "Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "category": "Electrical",
+    "description": "Electrical Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-29",
+    "name": "Food Technology",
+    "fullName": "Food Technology (4 Years, Bachelor of Technology)",
+    "category": "Agricultural",
+    "description": "Food Technology program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-32",
+    "name": "Mechanical Engineering)",
+    "fullName": "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "category": "Mechanical",
+    "description": "Mechanical Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-33",
+    "name": "B.Tech. (Civil Engineering) - MBA)",
+    "fullName": "B.Tech. (Civil Engineering) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Civil",
+    "description": "B.Tech. (Civil Engineering) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-34",
+    "name": "B.Tech. (Computer Science and Engineering) - MBA)",
+    "fullName": "B.Tech. (Computer Science and Engineering) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Computer Science & IT",
+    "description": "B.Tech. (Computer Science and Engineering) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-35",
+    "name": "B.Tech. (Elctrical Engineering) - MBA)",
+    "fullName": "B.Tech. (Elctrical Engineering) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Other Engineering",
+    "description": "B.Tech. (Elctrical Engineering) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-36",
+    "name": "B.Tech. (Electronics and Communication Engineering) - MBA)",
+    "fullName": "B.Tech. (Electronics and Communication Engineering) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Electronics & Communication",
+    "description": "B.Tech. (Electronics and Communication Engineering) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-37",
+    "name": "B.Tech. (Food Engineering and Technology) - MBA)",
+    "fullName": "B.Tech. (Food Engineering and Technology) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Agricultural",
+    "description": "B.Tech. (Food Engineering and Technology) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-38",
+    "name": "B.Tech. (Mechanical Engineering) - MBA)",
+    "fullName": "B.Tech. (Mechanical Engineering) - MBA (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "category": "Mechanical",
+    "description": "B.Tech. (Mechanical Engineering) - MBA) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-39",
+    "name": "Bachelor of Design",
+    "fullName": "Bachelor of Design (4 Years, Bachelor of Design)",
+    "category": "Other Engineering",
+    "description": "Bachelor of Design program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-42",
+    "name": "Robotics and AI",
+    "fullName": "Robotics and AI (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Robotics and AI program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-43",
+    "name": "Data Science and Artificial Intelligence",
+    "fullName": "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Data Science and Artificial Intelligence program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-46",
+    "name": "Computer Science Engineering (Artificial Intelligence))",
+    "fullName": "Computer Science Engineering (Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))",
+    "category": "Computer Science & IT",
+    "description": "Computer Science Engineering (Artificial Intelligence)) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-47",
+    "name": "Computer Science Engineering (Data Science))",
+    "fullName": "Computer Science Engineering (Data Science) (4 Years, B. Tech / B. Tech (Hons.))",
+    "category": "Computer Science & IT",
+    "description": "Computer Science Engineering (Data Science)) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-52",
+    "name": "Instrumentation Engineering",
+    "fullName": "Instrumentation Engineering (4 Years, Bachelor of Technology)",
+    "category": "Instrumentation",
+    "description": "Instrumentation Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-53",
+    "name": "Electronics and Instrumentation Engineering",
+    "fullName": "Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "Electronics and Instrumentation Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-54",
+    "name": "Mechatronics Engineering",
+    "fullName": "Mechatronics Engineering (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Mechatronics Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-55",
+    "name": "Civil and Environmental Engineering",
+    "fullName": "Civil and Environmental Engineering (4 Years, Bachelor of Technology)",
+    "category": "Civil",
+    "description": "Civil and Environmental Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-56",
+    "name": "Computer Science Engineering (Artificial lntelligence and Machine Learning)",
+    "fullName": "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Science Engineering (Artificial lntelligence and Machine Learning) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-58",
+    "name": "Food Technology and Management",
+    "fullName": "Food Technology and Management (4 Years, Bachelor of Technology)",
+    "category": "Agricultural",
+    "description": "Food Technology and Management program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-59",
+    "name": "Handloom and Textile Technology",
+    "fullName": "Handloom and Textile Technology (4 Years, Bachelor of Technology)",
+    "category": "Textile",
+    "description": "Handloom and Textile Technology program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-61",
+    "name": "Biomedical Engineering",
+    "fullName": "Biomedical Engineering (4 Years, Bachelor of Technology)",
+    "category": "Biotechnology",
+    "description": "Biomedical Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-63",
+    "name": "Computer Science and Engineering with specialization in Cyber Security",
+    "fullName": "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Science and Engineering with specialization in Cyber Security program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-64",
+    "name": "Electronics and Communication Engineering (Avionics)",
+    "fullName": "Electronics and Communication Engineering (Avionics) (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "Electronics and Communication Engineering (Avionics) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-65",
+    "name": "Aeronautical Engineering",
+    "fullName": "Aeronautical Engineering (4 Years, Bachelor of Technology)",
+    "category": "Aerospace",
+    "description": "Aeronautical Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-66",
+    "name": "Dairy Engineering",
+    "fullName": "Dairy Engineering (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Dairy Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-67",
+    "name": "Fashion and Apparel Engineering",
+    "fullName": "Fashion and Apparel Engineering (4 Years, Bachelor of Technology)",
+    "category": "Textile",
+    "description": "Fashion and Apparel Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-68",
+    "name": "Printing and Packaging Technology",
+    "fullName": "Printing and Packaging Technology (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "Printing and Packaging Technology program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-69",
+    "name": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics)",
+    "fullName": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "B.Tech in Artificial Intelligenece and Data Science (Transportation and Logistics) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-70",
+    "name": "B.Tech in Aviation Engineering",
+    "fullName": "B.Tech in Aviation Engineering (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "B.Tech in Aviation Engineering program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-71",
+    "name": "B.Tech in Civil Engineering (Rail Engineering)",
+    "fullName": "B.Tech in Civil Engineering (Rail Engineering) (4 Years, Bachelor of Technology)",
+    "category": "Civil",
+    "description": "B.Tech in Civil Engineering (Rail Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-72",
+    "name": "B.Tech in Electrical Engineering ( Rail Engineering)",
+    "fullName": "B.Tech in Electrical Engineering ( Rail Engineering) (4 Years, Bachelor of Technology)",
+    "category": "Electrical",
+    "description": "B.Tech in Electrical Engineering ( Rail Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-73",
+    "name": "B.Tech in Electronics & Communication Engineering (Rail Engineering)",
+    "fullName": "B.Tech in Electronics & Communication Engineering (Rail Engineering) (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "B.Tech in Electronics & Communication Engineering (Rail Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-74",
+    "name": "B.Tech in Mechanical Engineering ( Rail Engineering)",
+    "fullName": "B.Tech in Mechanical Engineering ( Rail Engineering) (4 Years, Bachelor of Technology)",
+    "category": "Mechanical",
+    "description": "B.Tech in Mechanical Engineering ( Rail Engineering) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-75",
+    "name": "B.Tech in CSE (AI and ML)",
+    "fullName": "B.Tech in CSE (AI and ML) (4 Years, Bachelor of Technology)",
+    "category": "Other Engineering",
+    "description": "B.Tech in CSE (AI and ML) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-76",
+    "name": "Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology )",
+    "fullName": "Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology ) (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Science and Engineering (Internet of Things, Cyber Security including Block Chain Technology ) program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-77",
+    "name": "B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics",
+    "fullName": "B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics (4 Years, Bachelor of Technology)",
+    "category": "Electronics & Communication",
+    "description": "B. Tech in Electronics and Communication Engineering with minor in Wearable Electronics program offered by GFTI institutions"
+  },
+  {
+    "id": "gfti-branch-78",
+    "name": "Computer Science and Engineering with minor in AI and ML",
+    "fullName": "Computer Science and Engineering with minor in AI and ML (4 Years, Bachelor of Technology)",
+    "category": "Computer Science & IT",
+    "description": "Computer Science and Engineering with minor in AI and ML program offered by GFTI institutions"
+  }
+]
