@@ -31,7 +31,7 @@ async function loadData() {
       fs.readFile(join(dataPath, 'cutoffs.json'), 'utf-8'),
       fs.readFile(join(dataPath, 'colleges.json'), 'utf-8'),
       fs.readFile(join(dataPath, 'branches.json'), 'utf-8'),
-      fs.readFile(join(dataPath, 'csab-cutoffs.json'), 'utf-8')
+      fs.readFile(join(dataPath, 'csab-cutoffs-all-rounds.json'), 'utf-8')
     ]);
 
     cutoffsData = JSON.parse(cutoffs);
@@ -56,6 +56,17 @@ import { csabHandler } from './api/csab.js';
 import { cutoffsHandler } from './api/cutoffs.js';
 import { branchesHandler } from './api/branches.js';
 import { compareHandler } from './api/compare.js';
+import { 
+  getVisitorCount, 
+  trackVisitor, 
+  getVisitorLocations, 
+  getVisitorAnalytics 
+} from './api/visitors.js';
+import { 
+  sendTelegramMessage, 
+  sendContactFormToTelegram,
+  getCounsellingRequests
+} from './api/telegram.js';
 
 // Health check endpoint
 app.get('/', (req, res) => {
@@ -68,17 +79,34 @@ app.get('/', (req, res) => {
       csab: '/api/csab',
       cutoffs: '/api/cutoffs',
       branches: '/api/branches',
-      compare: '/api/compare'
+      compare: '/api/compare',
+      visitors: '/api/visitors',
+      visitorTrack: '/api/visitors/track',
+      visitorLocations: '/api/visitors/locations',
+      visitorAnalytics: '/api/visitors/analytics',
+      telegramMessage: '/api/telegram/message',
+      telegramContact: '/api/telegram/contact'
     }
   });
 });
 
 // API Routes
-app.post('/api/predict', (req, res) => predictHandler(req, res, { cutoffsData, collegesData }));
+app.post('/api/predict', (req, res) => predictHandler(req, res, { cutoffsData, collegesData, csabCutoffsData }));
 app.get('/api/csab', (req, res) => csabHandler(req, res, { csabCutoffsData, collegesData }));
 app.get('/api/cutoffs', (req, res) => cutoffsHandler(req, res, { cutoffsData }));
 app.get('/api/branches', (req, res) => branchesHandler(req, res, { branchesData }));
 app.post('/api/compare', (req, res) => compareHandler(req, res, { collegesData, cutoffsData }));
+
+// Visitor tracking routes
+app.get('/api/visitors', getVisitorCount);
+app.post('/api/visitors/track', trackVisitor);
+app.get('/api/visitors/locations', getVisitorLocations);
+app.get('/api/visitors/analytics', getVisitorAnalytics);
+
+// Telegram routes
+app.post('/api/telegram/message', sendTelegramMessage);
+app.post('/api/telegram/contact', sendContactFormToTelegram);
+app.get('/api/telegram/counselling', getCounsellingRequests);
 
 // Error handling middleware
 app.use((err, req, res, next) => {
